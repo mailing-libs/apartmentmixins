@@ -1,0 +1,26 @@
+{
+  "name": "mailing_apartmentmixinslib",
+  "version": "1.0.0",
+  "description": "AllexJS mixin lib that enables an allex_userservice to handle e-mails",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mailing-libs/apartmentmixins.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "mailing",
+    "apartment",
+    "mixins",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailing-libs/apartmentmixins/issues"
+  },
+  "homepage": "https://github.com/mailing-libs/apartmentmixins#readme"
+}
